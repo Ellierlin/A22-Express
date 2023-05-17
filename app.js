@@ -16,6 +16,10 @@ app.get('/about', (req, res) => {
     res.render('about')
 })
 
+app.get('/portfolio', (req, res) => {
+    res.render('portfolio')
+})
+
 app.listen(port, () => {
     console.log(`Express is running on http://localhost:${port}`)
 })
