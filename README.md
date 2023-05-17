@@ -7,6 +7,7 @@
   <li>Node.js@14.16.0</li>
   <li>Node Package Manager (npm)</li>
   <li>Express@4.16.4</li>
+  <li>express-handlebars@3.0.0</li>
 </ul>
 
 安裝方法：
