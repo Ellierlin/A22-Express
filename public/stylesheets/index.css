@@ -1,0 +1,42 @@
+* {
+    margin: o;
+    padding: o;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    width: 80%;
+    margin-top: 30px;
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    background-color: #ccc;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    padding: 10px 15px;
+    line-height: 2;
+    font-size: 14px;
+}
+
+.btn-about, .btn-portfolio {
+    margin-right: 8px;
+}
+
+.content {
+    margin: 40px 10px;
+}
+
+h2 {
+    font-weight: normal;
+}
